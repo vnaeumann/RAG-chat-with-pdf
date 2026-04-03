@@ -1,0 +1,17 @@
+streamlit
+langchain
+numpy
+matplotlib
+python-dotenv
+faiss-cpu
+openai
+huggingface_hub
+langchain-community
+langchain-groq
+langchain-openai
+pypdf
+tiktoken
+beautifulsoup4
+uv
+langchain-huggingface
+sentence-transformers
